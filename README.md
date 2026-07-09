@@ -1,10 +1,15 @@
-<h1 align="center">Hi, I'm Soham Gor 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Soham%20Gor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20%2B%20Security%20Systems%20That%20Think%20Ahead&descAlignY=55&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Cybersecurity+%7C+Full-Stack;Turning+threat+telemetry+into+decisions;Building+RAG+copilots+%26+SOC+dashboards" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Software Engineer | AI/ML & Cybersecurity Enthusiast | Full-Stack Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-g-8b317b2b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sohamgor1510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-+91--9099114506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <i>"The best defense is built on data you understand and models you trust."</i>
 </p>
 
 ---
@@ -16,7 +21,6 @@
 - 🧠 Passionate about **Machine Learning, Distributed Systems, and Full-Stack Development**
 - 👨‍🏫 President of **Grow Workplace Communication Club, PDEU** — leading a team of 50+ and running 20+ professional workshops
 - 🏆 3rd Place @ **AETRIX Hackathon 2026** for SatIntel, an AI-powered satellite environmental intelligence platform
-- 📫 Reach me at **sohamgor1510@gmail.com**
 
 ---
 
@@ -36,8 +40,8 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[Satintel](https://github.com/Sohamgor1904/Satintel)** | Full-stack geospatial intelligence platform using NASA/ESA satellite data for real-time environmental monitoring across 14 cities & 961 grid cells/city. ML pipelines with Isolation Forest, LSTM, ARIMA, DBSCAN. 🏆 3rd place, AETRIX Hackathon 2026 | React.js, FastAPI, PostgreSQL, PyTorch |
-| **OCSF ThreatPulse** | Hybrid threat detection pipeline & SOC dashboard combining statistical filtering, Random Forest (SHAP), and LSTM for enterprise security telemetry. 100% recall, 97.63% LSTM accuracy | FastAPI, React, PostgreSQL, Redis, PyTorch |
-| **Vulnerability Lifecycle Copilot** | RAG platform for vulnerability lifecycle management with dual-index retrieval, CVE enrichment via NVD, EPSS, CISA KEV & MITRE ATT&CK | Streamlit, LlamaIndex, ChromaDB, Supabase |
+| **[OCSF ThreatPulse](https://github.com/Sohamgor1904/OCSF-ThreatPulse)** | Hybrid threat detection pipeline & SOC dashboard combining statistical filtering, Random Forest (SHAP), and LSTM for enterprise security telemetry. 100% recall, 97.63% LSTM accuracy | FastAPI, React, PostgreSQL, Redis, PyTorch |
+| **[Vulnerability Lifecycle Copilot](https://github.com/Sohamgor1904/vuln-lifecycle-copilot)** | RAG platform for vulnerability lifecycle management with dual-index retrieval, CVE enrichment via NVD, EPSS, CISA KEV & MITRE ATT&CK | Streamlit, LlamaIndex, ChromaDB, Supabase |
 | **[Cloud_project](https://github.com/Sohamgor1904/Cloud_project)** | Cloud-based application project | JavaScript |
 | **[Web_Tech_project](https://github.com/Sohamgor1904/Web_Tech_project)** | Web technologies project | Python |
 
@@ -71,19 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohamgor1904&show_icons=true&theme=default&hide_border=true" alt="Soham's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamgor1904&hide_border=true" alt="Soham's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamgor1904&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🎓 Certifications
 
 - 100 Days of Code™: The Complete Python Pro Bootcamp — Udemy
@@ -92,3 +83,5 @@
 ---
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=100&section=footer" />
